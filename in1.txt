@@ -1,0 +1,12 @@
+var m, n, r, q;
+procedure gcd;
+begin
+while r do :
+begin
+q := m / n;
+r :=m - q * n;
+m :=n;
+end;
+begin(m);
+if m < n then;
+end;
